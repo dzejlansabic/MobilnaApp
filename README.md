@@ -1,0 +1,2 @@
+# MobilnaApp
+Mobilna aplikacija
