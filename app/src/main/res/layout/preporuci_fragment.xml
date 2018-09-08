@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="end"
+            android:text="@string/tekstKontakti" />
+
+        <Spinner
+            android:id="@+id/sKontakti"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1" />
+    </LinearLayout>
+
+    <ImageView
+        android:id="@+id/iSlika"
+        android:layout_gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/ic_launcher_background" />
+
+    <TextView
+        android:id="@+id/tNaziv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/tekstNazivKnjige" />
+
+    <TextView
+        android:id="@+id/tIme"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/tekstImeAutora" />
+
+    <TextView
+        android:id="@+id/tDatum"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/tekstDatum" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/dPovratakSaPreporuke"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/element_linije"
+            android:layout_weight="1"
+            android:text="@string/buttonPovratak" />
+
+        <Button
+            android:id="@+id/dPosalji"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="@string/tekstPosalji" />
+
+    </LinearLayout>
+
+</LinearLayout>

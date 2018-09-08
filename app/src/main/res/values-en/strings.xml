@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="editTekstPretraga">Enter the category</string>
+    <string name="buttonPretraga">Search</string>
+    <string name="buttonDodajKategoriju">Add category</string>
+    <string name="buttonDodajKnjigu">Add a book</string>
+    <string name="buttonKategorije">Categories</string>
+    <string name="buttonAutori">Authors</string>
+    <string name="buttonPovratak">Return</string>
+    <string name="textViewNazivK">Title of the book</string>
+    <string name="textViewNazivA">Name of author</string>
+    <string name="buttonNadjiSliku">Find the picture</string>
+    <string name="buttonUpisiKnjigu">Add book</string>
+    <string name="buttonPonisti">Cancel</string>
+    <string name="tekstBrojStranica">Page number</string>
+    <string name="tekstDatum">Date</string>
+    <string name="tekstOpis">Description</string>
+    <string name="tekstKontakti">Contacts:</string>
+    <string name="tekstNazivKnjige">Title: </string>
+    <string name="tekstImeAutora">Name of author: </string>
+    <string name="tekstDatumObjavljivanja">Date: </string>
+    <string name="tekstPosalji">Send</string>
+</resources>

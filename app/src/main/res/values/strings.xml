@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">rma18Sabic17296</string>
+    <string name="editTekstPretraga">Unesi kategoriju</string>
+    <string name="buttonPretraga">Pretraga</string>
+    <string name="buttonDodajKategoriju">Dodaj kategoriju</string>
+    <string name="buttonDodajKnjigu">Dodaj knjigu</string>
+    <string name="buttonKategorije">Kategorije</string>
+    <string name="buttonAutori">Autori</string>
+    <string name="buttonPovratak">Povratak</string>
+    <string name="textViewNazivK">Naziv knjige</string>
+    <string name="textViewNazivA">Naziv autora</string>
+    <string name="buttonNadjiSliku">Nadji sliku</string>
+    <string name="buttonUpisiKnjigu">Upisi</string>
+    <string name="buttonPonisti">Ponisti</string>
+    <string name="buttonPreporuci">Preporuci</string>
+    <string name="tekstBrojStranica">Broj stranica</string>
+    <string name="tekstDatum">Datum objavljivanja</string>
+    <string name="tekstOpis">Opis</string>
+    <string name="tekstKontakti">Kontakti:</string>
+    <string name="tekstNazivKnjige">Naziv knjige: </string>
+    <string name="tekstImeAutora">Ime autora: </string>
+    <string name="tekstDatumObjavljivanja">Datum objavljivanja: </string>
+    <string name="tekstPosalji">Posalji</string>
+</resources>
