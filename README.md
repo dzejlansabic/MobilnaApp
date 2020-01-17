@@ -1,5 +1,5 @@
 #Mobile app (like goodreads)
 
-Džejlan Šabić 17296
+Džejlan Šabić 
 
 2017/18
